@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science and everything about software developpement 
 - 🌱 I’m currently learning MAUI
 - 💞️ I’m looking to collaborate on ✨XR✨ | ✨AI✨ | ✨Mobile✨ |✨3D✨ Projects
-- 📫 You know How to reach me 👋
+- 📫 If You want How to reach me, follow this link : [link] https://www.linkedin.com/in/bilel-mnasser/ 👋
 
 <!---
 bilelmnasser/bilelmnasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
